@@ -111,7 +111,7 @@
 
 ### **Aula 08: CSS**
 
-	**Objetivo:** Aprender a estilizar páginas HTML com CSS, incluindo layouts responsivos.  
+**Objetivo:** Aprender a estilizar páginas HTML com CSS, incluindo layouts responsivos.  
 **Pré-requisitos:** Aula 06 (HTML básico).
 
 #### Conteúdo(s):
